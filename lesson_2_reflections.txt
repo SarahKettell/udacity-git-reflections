@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+    Git files are created when you initialize a repository, allowing it
+    to be tracked and ready to use. Without doing this, you cannot commit
+    any files or use any git features within it.
+

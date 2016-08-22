@@ -1,0 +1,46 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    I was able to see what lines of code changed very quickly, which narrowed down the 
+    possible error locations.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    It would save time because I could pinpoint when certain changes happened and 
+    regress more easily.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    The pros of choosing when it saves is that you are less likely to have small changes 
+    saved while you are in the process of writing it. I have actually lost content in 
+    Google Docs before because it saved in between an edit that I wanted to regress to.
+    However, manually saving is only helpful if you actually remmeber to do it often and
+    at logical points. 
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    I think this might be more of a use-case choice. In Git, it is likely that multiple
+    files will have changes that are dependent on each other to work. If you change one,
+    you might introduce problems in the others without realising how. However, in Docs, 
+    files are generally not related in any important way because it is designed more for
+    other uses.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log allows me to see each commit, which normally includes a message that explains
+    what was changed in that commit. git diff allows me to compare any two commits and see
+    what specifically changed in the files.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Using git, I do not have to worry about the changes I make because they are always
+    reversable and easily found.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    The rest of the course and all future projects so that I keep in practice.
