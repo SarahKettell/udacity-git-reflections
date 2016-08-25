@@ -35,3 +35,10 @@ How do the diagrams help you visualize the branch structure?
     The diagrams help by showing me what commits are connected to each other and
     how a branch creates a totally new line of them.
 
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+    When two branches are merged, the differences between them are combined into
+    whatever branch you are currently in. This branch then becomes the new
+    master and all commits are logged by timestamp.
+
