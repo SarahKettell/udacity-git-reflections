@@ -29,3 +29,9 @@ organized? How would branches help?
     the addition you will doing will take longer to perfect. This way you can
     still update the original without needing to be ready to launch the new
     feature yet.
+
+How do the diagrams help you visualize the branch structure?
+
+    The diagrams help by showing me what commits are connected to each other and
+    how a branch creates a totally new line of them.
+
