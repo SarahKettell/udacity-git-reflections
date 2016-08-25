@@ -20,3 +20,12 @@ change?
     allows the user to make combinations of files that only relate to one
     change each. In addition, using the diff commands can help the user to see
     exactly what has changed and remove anything that is not relevant.
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+    Branches would help in situations where you are testing out a new feature
+    and you do not want to harm any of the original code, or when you think that
+    the addition you will doing will take longer to perfect. This way you can
+    still update the original without needing to be ready to launch the new
+    feature yet.
