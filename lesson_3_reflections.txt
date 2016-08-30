@@ -25,3 +25,10 @@ one instead of another?
     same way with local repositories. Branches, on the other hand, are separate
     routes within the same repository that allow for multiple changes to be
     worked on at once. They only have one master.
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+    Having a copy of the last known state of the remote stored locally allows
+    for offline comparison of any changes between the two versions. This also
+    makes it easy to resolve merge conflicts without internet access.
