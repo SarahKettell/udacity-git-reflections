@@ -16,3 +16,12 @@ automatically stay up-to-date with your remote repository?
     have a change to your local that you did not want yet. Maybe you are working
     on a new feature or something on a separate branch, but the pull updates the
     branch in a way that messes up your current work.
+
+Describe the differences between forks, clones, and branches. When would you use
+one instead of another?
+
+    Forks are a feature of GitHub. It is like their version of cloning, where
+    you create a copy of someone else's repository on GitHub. Clones work the
+    same way with local repositories. Branches, on the other hand, are separate
+    routes within the same repository that allow for multiple changes to be
+    worked on at once. They only have one master.
