@@ -32,3 +32,11 @@ stored locally?
     Having a copy of the last known state of the remote stored locally allows
     for offline comparison of any changes between the two versions. This also
     makes it easy to resolve merge conflicts without internet access.
+
+How would you collaborate without using Git or GitHub? What would be easier, and
+what would be harder?
+
+    You could collaborate using a file sharing system such as Dropbox or
+    manually exhange files via hardware or email. GitHub makes this process much
+    easier because it handles all of the changes for you and keeps track of
+    everything.
