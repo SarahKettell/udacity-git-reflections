@@ -40,3 +40,12 @@ what would be harder?
     manually exhange files via hardware or email. GitHub makes this process much
     easier because it handles all of the changes for you and keeps track of
     everything.
+
+When would you want to make changes in a separate branch rather than directly in
+master? What benefits does each approach have?
+
+    You might want to make changes in a branch when you are testing out an idea
+    that you want others you are collaborating with to give feedback on. This
+    makes it easier for them to review your changes. In addition, it doesn't
+    prevent anyone else from working on their own code, or even merging to
+    master.
